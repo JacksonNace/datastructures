@@ -1,0 +1,3 @@
+write own linkedlist with search, delete, insert, and print from different areas, especially beginning and end
+get used to writing linkedlists into other linkedlists
+

@@ -7,6 +7,14 @@ struct st{
   st *next;
 };
 
+bool searchfornum(st *cu, int key ) {
+  while (cu != nullptr) {
+    if (cu->gpa == key){
+      cout << cu->id;
+    }
+  }
+}
+
 int main () {
   st *p = new st;
   st *head = p;
