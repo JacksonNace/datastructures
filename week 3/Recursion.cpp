@@ -22,6 +22,9 @@ struct ll{
   ll *next;
 };
 
+
+//extra_1_5_2 cout, print, search recursively
+
 class functions {
   private:
     ll *head;
